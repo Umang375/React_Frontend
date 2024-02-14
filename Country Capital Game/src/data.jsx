@@ -1,0 +1,17 @@
+export const DATA = {
+    'USA': 'Washington, D.C.',
+    'Canada': 'Ottawa',
+    'UK': 'London',
+    'France': 'Paris',
+    'Germany': 'Berlin',
+    'Italy': 'Rome',
+    'Spain': 'Madrid',
+    'Australia': 'Canberra',
+    'Brazil': 'Brasília',
+    'China': 'Beijing',
+    'India': 'New Delhi',
+    'Japan': 'Tokyo',
+    'Mexico': 'Mexico City',
+    'Russia': 'Moscow',
+    'South Africa': 'Pretoria',
+  };
